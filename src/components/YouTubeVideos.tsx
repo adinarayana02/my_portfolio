@@ -37,7 +37,7 @@ const YouTubeVideos = () => {
       description: "In this video, I'll walk you through how to build your own AI marketing asset generator using n8n and OpenAI. This project will help you generate marketing assets like social media posts, blog posts, and more, all powered by AI.",
       date: "May 15, 2025",
       link: "https://youtu.be/957ZURCMkM0",
-      thumbnail: "https://i9.ytimg.com/vi/957ZURCMkM0/mqdefault.jpg?v=6825bacb&sqp=CODmrcIG&rs=AOn4CLDzZ09BP1dD8XNi3Utu9Hx7-X817A",
+      thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXhYrFMXWdGOgfvVjX3OEFTDEBItCwuI4rg&s",
       views: "2.5K",
       tags: ["LLMs", "n8n", "OpenAI", "AI"]
     },
@@ -56,7 +56,7 @@ const YouTubeVideos = () => {
         description: "In this video, I'll walk you through how to build your own WhatsApp AI agent that can prompt products, sell them, and provide customer support. This project will help you automate your sales and customer support processes using AI.",
         date: "May 10, 2025",
         link: "https://youtu.be/cpJ2Ma5q33g",
-        thumbnail: "https://i9.ytimg.com/vi/cpJ2Ma5q33g/mqdefault.jpg?sqp=CLjrrcIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGQgZChkMA8=&rs=AOn4CLAEYlLB_3NTLqnRtvpn3_w32L5VNQ",
+        thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV13MiS5b6ZfkkbLZEjgUNU4ieAx6z28KGSQ&s",
           views: "3.1K",
           tags: ["n8n", "AI", "Web Development"]
       },
