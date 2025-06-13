@@ -19,7 +19,7 @@ const YouTubeVideos = () => {
       description: "In this video, I'll walk you through how to build a 24/7 AI voice agent for real estate using Retell AI and N8N — a powerful setup designed to automate every step of real estate lead handling.",
       date: "May 21, 2025",
       link: "https://youtu.be/qzsi11Jeakk",
-      thumbnail: "https://i9.ytimg.com/vi/qzsi11Jeakk/mqdefault.jpg?v=682dba58&sqp=CIjircIG&rs=AOn4CLBeAKvZyVGPrrJO4JevKMY-fpmXrg",
+      thumbnail: "https://media.licdn.com/dms/image/v2/D5622AQH2Z97HncyaYQ/feedshare-shrink_800/B56Zbysi8RGoAk-/0/1747828487765?e=1752710400&v=beta&t=N8virMyJq1bjsiD6iZZ71n9ahZxO-j-1-G5bms-aSno",
       views: "1.2K",
       tags: ["AI", "Retell AI", "N8N", "Real Estate"]
     },
@@ -46,7 +46,7 @@ const YouTubeVideos = () => {
       description: "In this video, I'll walk you through how to build your own WhatsApp AI agent that can prompt products, sell them, and provide customer support. This project will help you automate your sales and customer support processes using AI.",
       date: "May 10, 2025",
       link: "https://youtu.be/QgfCJbBa6mc",
-      thumbnail: "https://i9.ytimg.com/vi/QgfCJbBa6mc/mqdefault.jpg?sqp=CIzprcIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgXChcMA8=&rs=AOn4CLDuEd9NLzr_zIDsRN1mNHiDlkosmg",
+      thumbnail: "https://media.licdn.com/dms/image/v2/D5622AQFNGov7jEsZBg/feedshare-shrink_800/B56Zat4KFuGkAg-/0/1746673902934?e=1752710400&v=beta&t=P8375X0eG7OsvQoRxVVo3BmbRF0r7NBLPRA8OZhY1JI",
         views: "3.1K",
         tags: ["Full Stack", "AI", "Web Development"]
     },
